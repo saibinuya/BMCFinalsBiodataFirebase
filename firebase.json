@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"dart":{"lib/firebase_options.dart":{"projectId":"myfirstproject2-7b77a","configurations":{"web":"1:218279053237:web:07675ea1ad3a1f3bbd3bfc"}}}}},"hosting":{"public":"build/web","ignore":["firebase.json","**/.*","**/node_modules/**"],"rewrites":[{"source":"**","destination":"/index.html"}]}}
